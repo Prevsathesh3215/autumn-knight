@@ -1,3 +1,5 @@
+yes i write this doc using ai, dont judge me
+
 # 🎮 Autumn Knight - 2D Action RPG
 
 <div align="center">
